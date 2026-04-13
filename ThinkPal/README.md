@@ -206,9 +206,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 - LLM inference on local hardware can be slow
 - Consider using a faster model or GPU
 
-## License
-
-MIT License
 
 ---
 
